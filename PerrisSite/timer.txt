@@ -1,0 +1,1 @@
+s:354:"{"Timestamp":"2020-12-14T05:20:25.4734679-07:00","Aircraft":{"LoadTimer":[{"Name":"Gypsy","LoadNumber":"24","LoadingAt":"North","CallState":{},"Call":"00"},{"Name":"Shark Air","LoadNumber":"4","LoadingAt":"Military.","CallState":{},"Call":"20"}]},"WeatherState":"Blue Skies","UpperReport":"11 North","JumpRunReport":"North-South","SeparationReport":"30"}";
